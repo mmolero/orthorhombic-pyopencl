@@ -13,8 +13,6 @@ import numpy		  as     np
 import pyopencl		  as     cl
 
 
-
-
 class ANI2D:
 	
 	def __init__(self, Image, Materials, Source, Transducer, Signal, SimModel):
