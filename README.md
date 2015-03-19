@@ -24,3 +24,10 @@ Wave propagation for a weakly orthorhombic plate (rotated by an angle of 45º) i
 " target="_blank"><img src="http://img.youtube.com/vi/pw411BySLEY/0.jpg" 
 alt="Wave propagation for a weakly orthorhombic plate (rotated by an angle of 45º) in 2-D immersed in water tank. " width="240" height="240" border="10" /></a>
 
+
+___
+
+We want to thank to:
+
+  Andreas Klöckner and everybody involved in the development of PyOpenCL 
+  Ian Johnson (enjalot) for his excellent tutorial: "Adventures in PyOpenCL" 
